@@ -11,7 +11,5 @@ Bootcamp CAIXA - Inteligência Artificial na Prática
 
 https://github.com/digitalinnovationone/copilot-prompts
 
-[Resultado da entrevista - Agente 1](resultado_entrevista_01.md)
-[Resultado da entrevista - Agente 2](resultado_entrevista_02.md)
-
-@
+[Resultado da entrevista - Agente 1](resultado_entrevista_01.md)  
+[Resultado da entrevista - Agente 2](resultado_entrevista_02.md)  
