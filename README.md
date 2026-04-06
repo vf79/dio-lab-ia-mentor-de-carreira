@@ -13,3 +13,10 @@ https://github.com/digitalinnovationone/copilot-prompts
 
 [Resultado da entrevista - Agente 1](resultado_entrevista_01.md)  
 [Resultado da entrevista - Agente 2](resultado_entrevista_02.md)  
+
+
+## Simulador inteligente de entrevistas
+
+[Prompt](EntrevistadorTecnicoPrompt.md)
+
+[Resultado simulador usando copilot](simulador_inteligente_entrevistas.md)
